@@ -1,0 +1,774 @@
+[{
+  "_id": {
+    "$oid": "64c3d9cd161042ee4751c47f"
+  },
+  "storeId": 193053,
+  "name": "Sarıyer Şanslı Köfte",
+  "supplierId": 776772,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651a7d8ac3592e360447665a"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3d9cd161042ee4751c49b"
+  },
+  "storeId": 214227,
+  "name": "Üsküdar Şanslı Köfte",
+  "supplierId": 776772,
+  "__v": 0,
+  "status": "OPEN",
+  "brand": {
+    "$oid": "651a7d8ac3592e360447665a"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3d9cd161042ee4751c47d"
+  },
+  "storeId": 192920,
+  "name": "Maslak Şanslı Köfte",
+  "supplierId": 776772,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651a7d8ac3592e360447665a"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3d9cd161042ee4751c479"
+  },
+  "storeId": 192583,
+  "name": "Ataşehir Şanslı Köfte",
+  "supplierId": 776772,
+  "__v": 0,
+  "status": "CLOSED",
+  "location": null,
+  "brand": {
+    "$oid": "651a7d8ac3592e360447665a"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3d9cd161042ee4751c489"
+  },
+  "storeId": 206352,
+  "name": "Güneşli Şanslı Köfte",
+  "supplierId": 776772,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651a7d8ac3592e360447665a"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3d9cd161042ee4751c47b"
+  },
+  "storeId": 192584,
+  "name": "Fikirtepe Şanslı Köfte",
+  "supplierId": 776772,
+  "__v": 0,
+  "status": "CLOSED",
+  "location": {
+    "$oid": "653a69973d2d4f06703f8054"
+  },
+  "brand": {
+    "$oid": "651a7d8ac3592e360447665a"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3d9cd161042ee4751c487"
+  },
+  "storeId": 206351,
+  "name": "Güneşli Şanslı Köfte",
+  "supplierId": 776772,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651a7d8ac3592e360447665a"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c829ef22ba8a55ed05a5fb"
+  },
+  "storeId": 219732,
+  "name": "Reşitpaşa mahallesi doğanevler caddesi no: 67 sarıyer/istanbul Sarıyer İstanbul  ",
+  "supplierId": 776772,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651a7d8ac3592e360447665a"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3d9cd161042ee4751c48b"
+  },
+  "storeId": 206354,
+  "name": "Güneşli Şanslı Köfte",
+  "supplierId": 776772,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651a7d8ac3592e360447665a"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c829ef22ba8a55ed05a5dc"
+  },
+  "storeId": 219712,
+  "name": "Kağıthane Yemek Kralı",
+  "supplierId": 803281,
+  "__v": 0,
+  "status": "OPEN",
+  "brand": {
+    "$oid": "651aaa6d31cf11a00cf529fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3dd08442efe1fd7921b0c"
+  },
+  "storeId": 207079,
+  "name": "Ataşehir Yemek Kralı",
+  "supplierId": 803281,
+  "__v": 0,
+  "status": "CLOSED",
+  "location": null,
+  "brand": {
+    "$oid": "651aaa6d31cf11a00cf529fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3dd08442efe1fd7921b10"
+  },
+  "storeId": 207723,
+  "name": "Çengelköy Yemek Kralı",
+  "supplierId": 803281,
+  "__v": 0,
+  "status": "OPEN",
+  "brand": {
+    "$oid": "651aaa6d31cf11a00cf529fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3dd08442efe1fd7921b18"
+  },
+  "storeId": 207432,
+  "name": "Halkalı Yemek Kralı",
+  "supplierId": 803281,
+  "__v": 0,
+  "status": "OPEN",
+  "brand": {
+    "$oid": "651aaa6d31cf11a00cf529fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3dd08442efe1fd7921b1e"
+  },
+  "storeId": 207856,
+  "name": "Maltepe Yemek Kralı",
+  "supplierId": 803281,
+  "__v": 0,
+  "status": "OPEN",
+  "brand": {
+    "$oid": "651aaa6d31cf11a00cf529fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3d9cd161042ee4751c481"
+  },
+  "storeId": 193237,
+  "name": "Bulgurlu Şanslı Köfte",
+  "supplierId": 776772,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651a7d8ac3592e360447665a"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3d9cd161042ee4751c49f"
+  },
+  "storeId": 192585,
+  "name": "Halkalı Şanslı Köfte",
+  "supplierId": 776772,
+  "__v": 0,
+  "status": "OPEN",
+  "brand": {
+    "$oid": "651a7d8ac3592e360447665a"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3dd08442efe1fd7921b20"
+  },
+  "storeId": 207858,
+  "name": "Güneşli Yemek Kralı",
+  "supplierId": 803281,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651aaa6d31cf11a00cf529fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3d9cd161042ee4751c4a1"
+  },
+  "storeId": 192795,
+  "name": "Şerifali Şanslı Köfte",
+  "supplierId": 776772,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651a7d8ac3592e360447665a"
+  },
+  "location": {
+    "$oid": "6557a29143f48cefa47594a0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3d9cd161042ee4751c477"
+  },
+  "storeId": 192442,
+  "name": "Kartal Şanslı Köfte",
+  "supplierId": 776772,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651a7d8ac3592e360447665a"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3dd08442efe1fd7921b0e"
+  },
+  "storeId": 207722,
+  "name": "Fikirtepe Yemek Kralı",
+  "supplierId": 803281,
+  "__v": 0,
+  "status": "CLOSED",
+  "location": {
+    "$oid": "653a69973d2d4f06703f8054"
+  },
+  "brand": {
+    "$oid": "651aaa6d31cf11a00cf529fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3d9cd161042ee4751c48d"
+  },
+  "storeId": 206355,
+  "name": "Güneşli Şanslı Köfte",
+  "supplierId": 776772,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651a7d8ac3592e360447665a"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3dd08442efe1fd7921b12"
+  },
+  "storeId": 207935,
+  "name": "Esenyurt Yemek Kralı",
+  "supplierId": 803281,
+  "__v": 0,
+  "status": "OPEN",
+  "brand": {
+    "$oid": "651aaa6d31cf11a00cf529fe"
+  },
+  "location": {
+    "$oid": "6557a39143f48cefa47595b9"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3d9cd161042ee4751c493"
+  },
+  "storeId": 206358,
+  "name": "Güneşli Şanslı Köfte",
+  "supplierId": 776772,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651a7d8ac3592e360447665a"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3dd08442efe1fd7921b1a"
+  },
+  "storeId": 207561,
+  "name": "Maslak Yemek Kralı",
+  "supplierId": 803281,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651aaa6d31cf11a00cf529fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3d9cd161042ee4751c48f"
+  },
+  "storeId": 206356,
+  "name": "Güneşli Şanslı Köfte",
+  "supplierId": 776772,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651a7d8ac3592e360447665a"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3d9cd161042ee4751c491"
+  },
+  "storeId": 206357,
+  "name": "Güneşli Şanslı Köfte",
+  "supplierId": 776772,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651a7d8ac3592e360447665a"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3d9cd161042ee4751c499"
+  },
+  "storeId": 210932,
+  "name": "İzmir Şanslı Köfte",
+  "supplierId": 776772,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651a7d8ac3592e360447665a"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3dd08442efe1fd7921b22"
+  },
+  "storeId": 207563,
+  "name": "Şerifali Yemek Kralı",
+  "supplierId": 803281,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651aaa6d31cf11a00cf529fe"
+  },
+  "location": {
+    "$oid": "6557a29143f48cefa47594a0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3d9cd161042ee4751c483"
+  },
+  "storeId": 193239,
+  "name": "Çengelköy Şanslı Köfte",
+  "supplierId": 776772,
+  "__v": 0,
+  "status": "OPEN",
+  "brand": {
+    "$oid": "651a7d8ac3592e360447665a"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3d9cd161042ee4751c497"
+  },
+  "storeId": 207587,
+  "name": "Maltepe Şanslı Köfte",
+  "supplierId": 776772,
+  "__v": 0,
+  "status": "OPEN",
+  "brand": {
+    "$oid": "651a7d8ac3592e360447665a"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3dd08442efe1fd7921b14"
+  },
+  "storeId": 214213,
+  "name": "Üsküdar Yemek Kralı",
+  "supplierId": 803281,
+  "__v": 0,
+  "status": "OPEN",
+  "brand": {
+    "$oid": "651aaa6d31cf11a00cf529fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c829ef22ba8a55ed05a5f9"
+  },
+  "storeId": 219717,
+  "name": "Kağıthane Şanslı Köfte",
+  "supplierId": 776772,
+  "__v": 0,
+  "status": "OPEN",
+  "brand": {
+    "$oid": "651a7d8ac3592e360447665a"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3dd08442efe1fd7921b1c"
+  },
+  "storeId": 207562,
+  "name": "Şerifali Yemek Kralı",
+  "supplierId": 803281,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651aaa6d31cf11a00cf529fe"
+  },
+  "location": null
+},
+{
+  "_id": {
+    "$oid": "64c3d9cd161042ee4751c495"
+  },
+  "storeId": 206359,
+  "name": "Güneşli Şanslı Köfte",
+  "supplierId": 776772,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651a7d8ac3592e360447665a"
+  },
+  "location": {
+    "$oid": "655a6e8756e921d2b2a063dc"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3d9cd161042ee4751c49d"
+  },
+  "storeId": 217427,
+  "name": "Beylikdüzü Şanslı Köfte",
+  "supplierId": 776772,
+  "__v": 0,
+  "status": "OPEN",
+  "brand": {
+    "$oid": "651a7d8ac3592e360447665a"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3d9cd161042ee4751c485"
+  },
+  "storeId": 204337,
+  "name": "Esenyurt Şanslı Köfte",
+  "supplierId": 776772,
+  "__v": 0,
+  "status": "OPEN",
+  "brand": {
+    "$oid": "651a7d8ac3592e360447665a"
+  },
+  "location": {
+    "$oid": "6557a39143f48cefa47595b9"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3dd08442efe1fd7921b16"
+  },
+  "storeId": 217428,
+  "name": "Beylikdüzü Yemek Kralı",
+  "supplierId": 803281,
+  "__v": 0,
+  "status": "OPEN",
+  "brand": {
+    "$oid": "651aaa6d31cf11a00cf529fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c3dd08442efe1fd7921b24"
+  },
+  "storeId": 207572,
+  "name": "Bulgurlu Yemek Kralı",
+  "supplierId": 803281,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651aaa6d31cf11a00cf529fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c829ef22ba8a55ed05a5de"
+  },
+  "storeId": 219730,
+  "name": "Reşitpaşa mahallesi doğanevler caddesi no: 67 sarıyer/istanbul ",
+  "supplierId": 803281,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651aaa6d31cf11a00cf529fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "64e47a9df0d73a43b434fe7e"
+  },
+  "storeId": 222205,
+  "name": "Yenişehir, :Yenişehir mah. Osmanlı bulvarı no:6 Word Atlantis avm, 34912 Pendik/İstanbul Pendik İstanbul  ",
+  "supplierId": 803281,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651aaa6d31cf11a00cf529fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "64e47a9df0d73a43b434fe7c"
+  },
+  "storeId": 222185,
+  "name": "Yemek Kralı- Yeşilbağlar Mahallesi Turgut Paşa Caddesi No:16/B, 34893 Pendik/İstanbul",
+  "supplierId": 803281,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651aaa6d31cf11a00cf529fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "64e47a9df0d73a43b434fe9b"
+  },
+  "storeId": 222186,
+  "name": "Şanslı Köfte- Yeşilbağlar Mahallesi  Turgut Paşa Caddesi No:16/B, 34893 Pendik/İstanbul",
+  "supplierId": 776772,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651a7d8ac3592e360447665a"
+  }
+},
+{
+  "_id": {
+    "$oid": "64e47a9df0d73a43b434fe9d"
+  },
+  "storeId": 222217,
+  "name": "Şanslı Köfte- Yenişehir MahallesiOsmanlı Bulvarı No:6 Word Atlantis avm, 34912 Pendik/İstanbul",
+  "supplierId": 776772,
+  "__v": 0,
+  "status": "OPEN",
+  "brand": {
+    "$oid": "651a7d8ac3592e360447665a"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f74fa9a0d83d16c2dab2df"
+  },
+  "storeId": 223860,
+  "name": "Firuzağa Mah. Cezayir sok. no: 1 Beyoğlu İstanbul  ",
+  "supplierId": 803281,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651aaa6d31cf11a00cf529fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f8a15a965f91fb2fb92de6"
+  },
+  "storeId": 223941,
+  "name": "Firuzağa Mah. Cezayir sok. no: 1\r\nİstanbul/Beyoğlu Beyoğlu İstanbul  ",
+  "supplierId": 776772,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651a7d8ac3592e360447665a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6500d167951e1a041c51e793"
+  },
+  "storeId": 224733,
+  "name": "Güzelyurt Mahallesi Orhangazi Caddesi Gülpark Yaşam Evleri No:5BD, 34515 Esenyurt/İstanbul, Türkiye Esenyurt/İstanbul",
+  "supplierId": 864756,
+  "__v": 0,
+  "status": "OPEN",
+  "brand": {
+    "$oid": "651aaa7531cf11a00cf52a00"
+  },
+  "location": {
+    "$oid": "6557a39143f48cefa47595b9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6501e308fa40880ae1148cdd"
+  },
+  "storeId": 224941,
+  "name": "Dumlupınar, Baysaş 216 Residance no:7AD, Barış Sk., 34720 Kadıköy/İstanbul Kadıköy İstanbul  ",
+  "supplierId": 864756,
+  "__v": 0,
+  "status": "CLOSED",
+  "location": {
+    "$oid": "653a69973d2d4f06703f8054"
+  },
+  "brand": {
+    "$oid": "651aaa7531cf11a00cf52a00"
+  }
+},
+{
+  "_id": {
+    "$oid": "6501e308fa40880ae1148cdf"
+  },
+  "storeId": 224942,
+  "name": "Güzeltepe Mah. Bosna Bulvarı Çanakçı Sk No:3, 34680 üsküdar/İstanbul Üsküdar İstanbul  ",
+  "supplierId": 864756,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651aaa7531cf11a00cf52a00"
+  }
+},
+{
+  "_id": {
+    "$oid": "65044d9aecfafeeced0abd64"
+  },
+  "storeId": 225190,
+  "name": "Çeliktepe, İsmet İnönü Cd. No:14 D:B, 34413 Kağıthane İstanbul  ",
+  "supplierId": 864756,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651aaa7531cf11a00cf52a00"
+  }
+},
+{
+  "_id": {
+    "$oid": "65096051d7b68b039f6eb940"
+  },
+  "storeId": 225449,
+  "name": "Zats it\nAdnan Kahveci Mah. Ender Sok no: 2 iç kapı 1 Beylikdüzü İstanbul  ",
+  "supplierId": 864756,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651aaa7531cf11a00cf52a00"
+  }
+},
+{
+  "_id": {
+    "$oid": "65096051d7b68b039f6eb944"
+  },
+  "storeId": 225456,
+  "name": "Yenişehir, :Yenişehir mah. Osmanlı bulvarı no:6 Word Atlantis avm, 34912 Pendik/İstanbul Pendik İstanbul  ",
+  "supplierId": 864756,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651aaa7531cf11a00cf52a00"
+  }
+},
+{
+  "_id": {
+    "$oid": "65096051d7b68b039f6eb946"
+  },
+  "storeId": 225457,
+  "name": "Firuzağa Mah. Cezayir sok. no: 1 Beyoğlu İstanbul  ",
+  "supplierId": 864756,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651aaa7531cf11a00cf52a00"
+  }
+},
+{
+  "_id": {
+    "$oid": "65096051d7b68b039f6eb942"
+  },
+  "storeId": 225453,
+  "name": "Zats it\nYeşilbağlar Mah. Turgut Paşa Cad. No:16/B, \n Pendik İstanbul  ",
+  "supplierId": 864756,
+  "__v": 0,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651aaa7531cf11a00cf52a00"
+  }
+},
+{
+  "_id": {
+    "$oid": "651716391b4a0c579bcb1e37"
+  },
+  "storeId": 227193,
+  "name": "Şerifali, Turcan Cd. 6/8 A, 34775 Dudullu Osb Ümraniye İstanbul  ",
+  "supplierId": 864756,
+  "status": "CLOSED",
+  "__v": 0,
+  "brand": {
+    "$oid": "651aaa7531cf11a00cf52a00"
+  },
+  "location": {
+    "$oid": "6557a29143f48cefa47594a0"
+  }
+},
+{
+  "_id": {
+    "$oid": "651bf235ebcd25371df43edb"
+  },
+  "storeId": 227600,
+  "name": "İstasyon Mahallesi 1428. Sokak No:39/A Küçükçekmece İstanbul  ",
+  "supplierId": 864756,
+  "status": "OPEN",
+  "__v": 0,
+  "brand": {
+    "$oid": "651aaa7531cf11a00cf52a00"
+  }
+},
+{
+  "_id": {
+    "$oid": "65516771ff6c8df0675726d0"
+  },
+  "storeId": 231492,
+  "name": "Zats it - Altayçeşme Mah. Şht. Canan Köse Sk. No 29  Maltepe / İstanbul",
+  "supplierId": 864756,
+  "status": "OPEN",
+  "brand": {
+    "$oid": "651aaa7531cf11a00cf52a00"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65516771ff6c8df0675726d3"
+  },
+  "storeId": 230701,
+  "name": "Zats it-Küçükbakkalköy Mah. Cengiz Topel Cd. No:18-20  Ataşehir/İstanbul ",
+  "supplierId": 864756,
+  "status": "CLOSED",
+  "brand": {
+    "$oid": "651aaa7531cf11a00cf52a00"
+  },
+  "__v": 0
+}]

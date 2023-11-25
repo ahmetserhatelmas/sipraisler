@@ -1,0 +1,30 @@
+{
+  "status": "OK",
+  "data": [
+    {
+      "_id": "651a7d8ac3592e360447665a",
+      "name": "Şanslı Köfte",
+      "__v": 0
+    },
+    {
+      "_id": "651aaa6d31cf11a00cf529fe",
+      "name": "Yemek Kralı",
+      "__v": 0
+    },
+    {
+      "_id": "651aaa7531cf11a00cf52a00",
+      "name": "Zatsit",
+      "__v": 0
+    },
+    {
+      "_id": "6525d5b8c17afb474f0f5eb4",
+      "name": "7 Meze İstanbul",
+      "__v": 0
+    },
+    {
+      "_id": "655499a743f48cefa472fbb4",
+      "name": "İstiklal Pilavcısı",
+      "__v": 0
+    }
+  ]
+}
